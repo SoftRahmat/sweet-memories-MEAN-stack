@@ -1,14 +1,14 @@
 # sweet-memories-MEAN-Stack
 ✍️ MEAN Stack Social media application ✍️
 
-❀ How to run project 👇
+❀ How to run project �
 ✤ At first open the project forlder.
-✤ Open terminal and type ⌨️ 👇
+✤ Open terminal and type ⌨️ �
 ⌨️ npm start 
-✤ Open another terminal and type ⌨️ 👇
+✤ Open another terminal and type ⌨ �
 ⌨️ npm run start:server 
 
-🤔 If you get an error related with becrypt then type ⌨️ 👇
+🤔 If you get an error related with becrypt then type ⌨️ �
 ⌨️ npm uninstall becrypt
 ⌨️ npm install becrypt 'or' npm install becryptjs
 
